@@ -1,0 +1,7 @@
+\\psf\home\documents\visual studio 2012\Projects\ConsoleApplication8\UnitTestTriangle\bin\Debug\UnitTestTriangle.dll
+\\psf\home\documents\visual studio 2012\Projects\ConsoleApplication8\UnitTestTriangle\bin\Debug\UnitTestTriangle.pdb
+\\psf\home\documents\visual studio 2012\Projects\ConsoleApplication8\UnitTestTriangle\bin\Debug\ConsoleApplication8.exe
+\\psf\home\documents\visual studio 2012\Projects\ConsoleApplication8\UnitTestTriangle\bin\Debug\ConsoleApplication8.pdb
+\\psf\home\documents\visual studio 2012\Projects\ConsoleApplication8\UnitTestTriangle\obj\Debug\UnitTestTriangle.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\ConsoleApplication8\UnitTestTriangle\obj\Debug\UnitTestTriangle.dll
+\\psf\home\documents\visual studio 2012\Projects\ConsoleApplication8\UnitTestTriangle\obj\Debug\UnitTestTriangle.pdb
